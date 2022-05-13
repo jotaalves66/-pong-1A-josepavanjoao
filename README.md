@@ -1,1 +1,2 @@
-# -pong-1A-josepavanjoao #pong desenvolvendo o jogo pong na sala de aula no Colegio Civico Militar Jose Pavan
+# pong 
+desenvolvendo o jogo pong na sala de aula no Colegio Civico Militar Jose Pavan
